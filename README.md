@@ -10,7 +10,7 @@ On Ubuntu
 ## Checkout maldeps Repo and Try it
 ```bash
 ## Checkout the code 
-git clone git@github.com:rakesh010101/maldeps.git
+git clone git@github.com:jchauhan/maldeps.git
 
 ## Start the docker instances
 docker compose up -d
